@@ -55,4 +55,5 @@ int main() {
         cin >> x >> y;
         cout << lca(x, y) << '\n';
     }
+    return 0;
 }
